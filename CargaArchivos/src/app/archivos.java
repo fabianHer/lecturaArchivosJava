@@ -14,7 +14,7 @@ public class archivos {
             }
             texto = temp; 
         } catch (Exception e) {
-            System.out.println("El archivo no se ha encontrado");            
+            System.out.println("El archivo no se ha Encontrado");            
         }
         return texto;
     }
